@@ -1,5 +1,6 @@
 {
-  "name": "PARANOIA Ark",
-  "description": "A stateless, ephemeral infrastructure manifesto and solution catalog for the paranoid.",
-  "requestFramePermissions": []
+  "name": "PARANOIA | Digital Sovereignty",
+  "description": "A manifesto and toolkit for absolute digital sovereignty. Build your private Ark in a hostile digital infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
